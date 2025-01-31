@@ -1,0 +1,3 @@
+{{- $image := resources.Get (printf "images/%s" (.Get "image")) -}}
+<span class="hover-image" data-image="{{ $image.RelPermalink }}">{{ .Get "text" }}</span>
+
