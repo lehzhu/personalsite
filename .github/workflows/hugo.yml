@@ -8,6 +8,7 @@ on:
 permissions:
   contents: read
   pages: write
+  packages: write
   id-token: write
 
 concurrency:
@@ -38,7 +39,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ${{ github.workspace }}/public
+          path: public
           name: github-pages
 
   deploy:
