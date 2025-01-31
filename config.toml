@@ -4,6 +4,15 @@ title = "Leon Zhu"
 pygmentsUseClasses = true
 summaryLength = 15
 
+[build]
+writeStats = false
+
+[build.processing]
+skip = ["postcss"]
+
+[minify]
+minifyOutput = true
+
 [markup.goldmark.renderer]
 unsafe = true
 
