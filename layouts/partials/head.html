@@ -10,14 +10,14 @@
 <meta property="og:type" content="website" />
 <meta property="og:title" content="{{ $title }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
-<link rel="canonical" href="https://miles.land{{ .Permalink }}" />
+<link rel="canonical" href="https://lhzhu.com{{ .Permalink }}" />
 {{ if (not (eq ($.Param "redirect") nil)) }}
 <meta http-equiv="refresh" content="0; URL={{ $.Param "redirect" }}" />
 {{ end }}
 {{ range .AlternativeOutputFormats -}}
 {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $title | safeHTML }}
 {{ end -}}
-{{ with resources.Get "images/avatar.jpg" }}
+{{ with resources.Get "images/avatar.png" }}
     {{ $icon := . | resources.Fingerprint }}
     <link rel='icon' type='image/png' href='{{ $icon.Permalink }}' />
 {{ end }}

@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "R. Miles McCain"
+title = "Leon Zhu"
 pygmentsUseClasses = true
 summaryLength = 15
 
@@ -19,8 +19,8 @@ weight = 1
     style_active = "bg-critical-100 dark:bg-critical-800 dark:bg-opacity-[30%]"
 
 [[menu.main]]
-name = "Posts"
-url = "/posts/"
+name = "Blog"
+url = "/blog/"
 weight = 2
 [menu.main.params]
     style = "text-info-600"

@@ -6,8 +6,8 @@ category: School
 tags:
   - AI
   - community 
-dateOverride: F ’16 –
-showRelatedTag: politiwatch
+dateOverride: Fall 2024 - Present
+showRelatedTag: ai
 highlightSubtitle: true
 weight: 1
 ---
