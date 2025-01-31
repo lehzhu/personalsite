@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        neutral: colors.stone, // Strictly speaking, redundant (this is here to map to the old a17t ~neutral)
+        neutral: colors.slate, // Strictly speaking, redundant (this is here to map to the old a17t ~neutral)
         positive: colors.green,
         urge: colors.blue,
         warning: colors.yellow,

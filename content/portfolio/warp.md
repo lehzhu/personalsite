@@ -4,11 +4,12 @@ title: Warp
 subtitle: Campus Lead
 category: Work
 tags:
-  - privacy
-  - safety
-dateOverride: S ’22
+  - devtool
+  - warp
+  - ai
+dateOverride: Winter 2025 - Present
 highlightSubtitle: true
-weight: 1
+weight: 2
 ---
 
-I am currently the Campus Lead for [Warp](https://warp.dev) at Western University.
+I am currently the Campus Lead for [Warp](https://warp.dev) at Western University. 

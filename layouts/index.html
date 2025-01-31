@@ -7,8 +7,8 @@
   <section class="content -mt-7">
     {{ .Content }}
   </section>
-  <section class="recently mt-8">
-    {{ range ((first 3 (where site.RegularPages "Type" "in" (slice "blog"))).GroupByDate "Jan ’06") }}
+  <!-- <section class="recently mt-8">
+    {{ range ((first 3 (where site.RegularPages "Type" "in" (slice "blog"))).GroupByDate "Jan '06") }}
     <div class="flex">
       <div class="self-start pr-4 md:pr-8 sticky-top vertical mt-px">
         <h3 class="leading-none text-neutral-500 dark:text-neutral-400 pb-2 toc-include mt-1" id="{{ .Key | urlize }}">{{ .Key | title }}</h3>
@@ -22,6 +22,6 @@
       </div>
     </div>
     {{ end }}
-  </section>
+  </section> -->
 </main>
 {{ end }}

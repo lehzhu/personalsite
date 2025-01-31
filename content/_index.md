@@ -16,18 +16,20 @@ I'm passionate about analytics, B2B innovation, and social computing.
 
 ### Previously
 
-I led the QA team on 
+- I led a QA Engineering team at JD Power. 
 
+- I worked on data science and analytics projects 
 
 ### Broadly
 
+I'm interested in aligning humans to do more net good through social computing. Curiosity is my strong suit, and 
 
-
-For more information, check out my [portfolio](/portfolio).
+Check out my [portfolio](/portfolio) or [resume](/resume) for more. 
 
 ### Contact
 
 <a href="https://cal.com/leonz" class="button ~info">Book a meeting with me here.</a>
 
-You can email me at [lzhu294@uwo.ca](mailto:lzhu294@uwo.ca). I'm also on [GitHub](https://github.com/lehzhu) and [LinkedIn](https://www.linkedin.com/in/leon-zhu/).
+You can email me at [lzhu294@uwo.ca](mailto:lzhu294@uwo.ca). I'm also on [GitHub](https://github.com/lehzhu), [LinkedIn](https://www.linkedin.com/in/leon-zhu/), and [Twitter](https://x.com/towheretobegin).
 
+_Thanks for stopping by!_

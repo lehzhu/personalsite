@@ -11,6 +11,14 @@ unsafe = true
 tag = "tags"
 
 [[menu.main]]
+name = "About"
+url = "/"
+weight = 1
+[menu.main.params]
+    style = "text-info-600"
+    style_active = "bg-info-100 dark:bg-info-800 dark:bg-opacity-[30%]"
+
+[[menu.main]]
 name = "Portfolio"
 url = "/portfolio/"
 weight = 1
@@ -26,10 +34,3 @@ weight = 2
     style = "text-info-600"
     style_active = "bg-info-100 dark:bg-info-800 dark:bg-opacity-[30%]"
 
-[[menu.main]]
-name = "Letter"
-url = "/letter/"
-weight = 4
-[menu.main.params]
-    style = "text-positive-600"
-    style_active = "bg-positive-100 dark:bg-positive-800 dark:bg-opacity-[30%]"

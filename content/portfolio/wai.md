@@ -7,8 +7,9 @@ tags:
   - AI
   - community 
 dateOverride: Fall 2024 - Present
-showRelatedTag: ai
 highlightSubtitle: true
-weight: 1
+weight: 2
 ---
 I am a Director of Education at Western AI. 
+
+My workshops have included Linear Regression, Explainable AI, Local Inference, and Natural Language Processing.

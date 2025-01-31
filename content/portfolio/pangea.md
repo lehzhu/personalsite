@@ -6,7 +6,7 @@ tags: ["open source", "web", "analytics", "freelance"]
 dateOverride: "2022"
 date: 
 highlightSubtitle: true
-weight: 1
+weight: 3
 ---
 
 I was part of the first Pangea program, a freelance platform. I worked on data engineering and data analytics for startups in the Northeast. 

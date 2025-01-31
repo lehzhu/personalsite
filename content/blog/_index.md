@@ -1,4 +1,4 @@
 ---
-title: "Blogs"
-subtitle: "Thoughts and Essays"
+title: "Blog"
+subtitle: "Or, Thoughts and Essays"
 ---
