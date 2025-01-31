@@ -16,8 +16,8 @@ I'm passionate about analytics, B2B innovation, and social computing.
 
 ### Previously
 
-- I led a QA Engineering team at JD Power, transforming the biggest automotive analytics product in the world.
-- I worked on data science and analytics projects for non-profits throughout North America.
+- I led a QA Engineering team at [JD Power](/portfolio/jdpower), transforming the biggest automotive analytics product in the world.
+- I worked on data science and analytics [projects](/portfolio/pangea) for non-profits throughout North America.
 
 ### Broadly
 

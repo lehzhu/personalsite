@@ -9,4 +9,6 @@ highlightSubtitle: true
 weight: 5
 ---
 
-I was part of the first Pangea program, a freelance platform. I worked on data engineering and data analytics for non-profits.
+I was part of the first Pangea program, a freelance platform for talented post-secondary students. I worked on data engineering and data analytics for non-profits.
+
+All projects under NDA. 
