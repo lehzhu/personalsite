@@ -1,5 +1,5 @@
 <li class="mb-12">
-  <a {{ if (not (eq ($.Param "link") nil))}}href="{{ $.Param "link" }}" rel="nofollow noopener" {{else}} href="{{ .Permalink }}" {{end}}>
+<a {{ if (not (eq ($.Param "link") nil))}}href="{{ $.Param "link" }}" rel="nofollow noopener" {{else}} href="{{ .RelPermalink }}" {{end}}>
     {{ if .Title }}
     <h3 class="font-medium text-base text-neutral-800 dark:text-neutral-100 leading-normal mb-px">
     {{ .Title }}
