@@ -36,6 +36,14 @@
         </aside>
       </div>
     </section>
-  </body>
-  {{ end }}
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+        document.querySelectorAll('.hover-image').forEach(function(el) {
+        const imageUrl = el.getAttribute('data-image');
+        el.style.setProperty('--hover-image', `url(${imageUrl})`);
+        });
+    });
+    </script>
+</body>
+{{ end }}
 </html>

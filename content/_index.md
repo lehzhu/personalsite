@@ -12,23 +12,24 @@ I'm passionate about analytics, B2B innovation, and social computing.
 ### Currently
 
 - I'm completing my Bachelor's degree in Computer Science at Western University.
-- I'm working on Fileseek, a local document understanding tool.
+- I'm working on [FileSeek](/portfolio/fileseek), a local document understanding tool.
 
 ### Previously
 
-- I led a QA Engineering team at JD Power. 
-
-- I worked on data science and analytics projects 
+- I led a QA Engineering team at JD Power, transforming the biggest automotive analytics product in the world.
+- I worked on data science and analytics projects for non-profits throughout North America.
 
 ### Broadly
 
-I'm interested in aligning humans to do more net good through social computing. Curiosity is my strong suit, and 
+I'm interested in aligning humans to do more net good through novel theses in social computing. Curiosity is my strong suit, and I leverage this alongside my ability to see and analyze connections through multiple layers of the world.
 
-Check out my [portfolio](/portfolio) or [resume](/resume) for more. 
+I enjoy writing [essays](/blog), both long-form and short-form. But I don't view it as a pursuit in itself; for me, writing is a process that forces us to defend our assumptions, knowledge, and beliefs.
+
+Check out my [portfolio](/portfolio) for more about my work. 
 
 ### Contact
 
-<a href="https://cal.com/leonz" class="button ~info">Book a meeting with me here.</a>
+Feel free to <a href="https://cal.com/leonz" class="button ~info">book a meeting with me here.</a>
 
 You can email me at [lzhu294@uwo.ca](mailto:lzhu294@uwo.ca). I'm also on [GitHub](https://github.com/lehzhu), [LinkedIn](https://www.linkedin.com/in/leon-zhu/), and [Twitter](https://x.com/towheretobegin).
 

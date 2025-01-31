@@ -62,7 +62,28 @@
   kbd,
   pre {
     font-size: 0.8em;
-  }
+}
+
+.hover-image {
+    @apply relative cursor-pointer;
+}
+
+.hover-image::after {
+    @apply absolute hidden bg-contain bg-no-repeat bg-center;
+    content: '';
+    z-index: 10;
+}
+
+.hover-image:hover::after {
+    @apply block absolute;
+    content: '';
+    width: 400px;
+    height: 400px;
+    left: 100%;
+    top: 50%;
+    transform: translateY(-50%);
+    background-image: var(--hover-image);
+}
 }
 
 .MathJax {
@@ -289,5 +310,5 @@
 }
 
 [x-cloak] {
-  display: none !important;
+display: none !important;
 }

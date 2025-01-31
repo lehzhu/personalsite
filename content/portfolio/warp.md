@@ -1,13 +1,13 @@
 ---
-date: 
+date: 2025-01-31
 title: Warp
 subtitle: Campus Lead
-category: Work
+category: School
 tags:
   - devtool
   - warp
   - ai
-dateOverride: Winter 2025 - Present
+dateOverride: 2025
 highlightSubtitle: true
 weight: 2
 ---
