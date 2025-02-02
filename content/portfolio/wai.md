@@ -8,7 +8,7 @@ tags:
   - community 
 dateOverride: 2024 - 2025
 highlightSubtitle: true
-weight: 5
+weight: 2
 ---
 
 I am a Director of Education at Western AI. 
