@@ -9,7 +9,7 @@ highlightSubtitle: true
 weight: 1
 ---
 
-I led a QA engineering project at [JD Power](https://www.jdpower.com/business) in the [Power Information Network](https://www.jdpower.com/business/pin-automotive-products) team. 
+I led a Data and QA engineering project at [JD Power](https://www.jdpower.com/business) in the [Power Information Network](https://www.jdpower.com/business/pin-automotive-products) team. 
 
 JD Power is an analytics firm that started out giving car awards, but is now responsible for the data stack in a multitude of industries. The Power Information Network is the primary offering for the North American car dealership industry, consolidating data from most leading vendors. 
 
