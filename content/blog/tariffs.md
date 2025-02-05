@@ -6,4 +6,7 @@ toc: false
 draft: true
 ---
 
+I'm not an expert on Canadian trade. But we need to use our strengths. 
+
+
 
