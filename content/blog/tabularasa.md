@@ -33,7 +33,7 @@ To summarize, I think one of three explanations should explain this pattern of p
 
 I'm not some herald of "good parenting." Rather, I believe that we can be so much more effective and altruistic if people had better positive shaping in childhood, with a strong constitution and a desire to do good and protect the weak. Bad things happen in life, and it's okay to break down. I hope that one returns from such challenges with an even better resolve to do good. 
 
-
+---
 
 [1] I once got jeered at by my friends for trying to alert someone that their car was hit by another car in a parking lot. A bit of a reality shock. 
 [2] There is research suggesting that adolescent shoplifting is a sign of child maltreatment (Thronberry). 
