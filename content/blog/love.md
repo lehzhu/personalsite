@@ -16,4 +16,4 @@ And the answer is often no, and that's okay. Not every endeavour will involve pe
 
 ---
 
-[1] I recently started going to my university's indoor bouldering club, and 1 person there strongly hates me lol
+[1] I recently started going to my university's indoor bouldering club, and one person there strongly hates me lol
