@@ -1,6 +1,6 @@
 ---
 title: "Project Regen"
-subtitle: ""
+subtitle: "Software Lead"
 category: School
 tags: ["robotics", "hardware", "arduino"]
 dateOverride: "2024-2025"
