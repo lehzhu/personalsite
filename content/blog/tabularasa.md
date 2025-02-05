@@ -36,6 +36,7 @@ I'm not some herald of "good parenting." Rather, I believe that we can be so muc
 ---
 
 [1] I once got jeered at by my friends for trying to alert someone that their car was hit by another car in a parking lot. A bit of a reality shock. 
+
 [2] There is research suggesting that adolescent shoplifting is a sign of child maltreatment (Thronberry). 
 
 References
