@@ -7,7 +7,7 @@ url: /
 draft: false
 ---
 
-I'm passionate about analytics, B2B innovation, and social computing.
+I'm passionate about social computing. I'm working on products that move the needle for a more equitable and productive future.
 
 ### Currently
 
