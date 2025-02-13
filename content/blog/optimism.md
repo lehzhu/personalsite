@@ -3,7 +3,7 @@ title: "Optimism"
 tags: ["personal", "psychology", "growth", "career", "advice"]
 date: 2025-02-12
 toc: false
-draft: true
+draft: false
 ---
 
 Overfitting is not the way to implement optimism. Rather, focus on unbounded positivity.
