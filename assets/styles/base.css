@@ -312,3 +312,23 @@
 [x-cloak] {
 display: none !important;
 }
+
+.portfolio-preview {
+  position: relative;
+  overflow: hidden;
+}
+
+.portfolio-gif {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 200px;
+  height: auto;
+  border-radius: 0.5rem;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.portfolio-preview:hover .portfolio-gif {
+  opacity: 1;
+}
