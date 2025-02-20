@@ -14,7 +14,7 @@ I like to consider myself an optimist. It feels good, it's effective in producin
 But there are different ways to implement optimism, and I think for a while I have been overfitting positivity onto negative experiences, which neglects the actual point of the exercise of optimism. 
 
 Dropout layers intentionally keep some negative noise to generalize better, and now I realize that instead of trying to ignore the negative aspects, experiences, and feelings I have (as I had erroneously believed before to be "optimism"), I would be better served by trying to contextualize and integrate some of those lessons in an accurate manner. 
-
+ 
 For example, this pair of twins used to bully me pretty hard. For a while, I simply associated that sort of behaviour to all blonde women, because that's what the twins were. This is obviously not a great sentiment to have, because confirmation bias will guarantee I see that conclusion validated. 
 
 To be an "Effective Optimist," I now realize that the solution is not to completely block out these experiences and sentiments, but better contextualize and ascribe why I feel that way. In this case, my hatred towards them was because I could not stand up for myself. At least with physical bullying I could fight back, albeit ineffectively. Social bullying has very little counters, especially in a limited and constrained environment such as elementary school. I dislike living in limbo with unresolved conflict, even one which is more emotional than substance (ie. childhood conflicts).
