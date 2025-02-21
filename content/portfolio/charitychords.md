@@ -9,4 +9,4 @@ highlightSubtitle: true
 weight: 20
 ---
 
-I was an executive for a music club on campus. Music is interesting in that it encourages collaboration and amicableness like nothing else.
+Music is interesting in that it encourages collaboration and amicableness like nothing else. I've been part of music advocacy and charity for 8 years now, starting in high school.
