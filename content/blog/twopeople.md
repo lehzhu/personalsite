@@ -26,6 +26,7 @@ As for my vision, it's probably this as of writing:
 
 >I want to shape the social computing landscape such that machine intelligence enhances the best of existing social patterns and paradigms while not amplifying the worst of human behaviour. I wish to do this by building effective products and services that create incentive structures aligning with these goals. I would be the one capable of doing this because I will seek to become the expert of the blend between social computing, effective incentive structures, and human behaviour.
 
+I'll work on getting it to sound fancier. 
 
 --- 
 
