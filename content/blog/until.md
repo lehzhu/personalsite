@@ -6,5 +6,5 @@ toc: false
 draft: false
 --- 
 
-I drive until the engine blows, prompt until the API goes down, new tab until OS freezes, talk until hoarse, listen until words stop being words, and love until it hurts. 
+I drive until the engine blows, prompt until the API goes down, new tab until the OS freezes, talk until I'm hoarse, listen until the words stop being words, and love until it hurts. 
 
