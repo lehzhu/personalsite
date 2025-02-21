@@ -12,8 +12,8 @@ I'm passionate about social computing. I'm working on products that move the nee
 ### Currently
 
 - Completing my Bachelor's degree in Computer Science at Western University.
-- Working on [FileSeek](/portfolio/fileseek), a supercharged Finder. 
-- Building effective incentive structures with social alignment 
+- Working on [FileSeek](/portfolio/fileseek), a supercharged Finder.
+- Building effective incentive structures with social alignment. 
 - Mentoring the next generation of engineering leaders as part of [Western AI](/portfolio/wai) and the [Warp](/portfolio/warp) Campus Lead program.
 
 ### Previously
