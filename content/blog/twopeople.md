@@ -14,11 +14,11 @@ Metaphor or not, it's okay to have nascently formed dreams. It's a perfectly val
 
 To elaborate, I think selfish dreams focus on the result. Money, power, fame, material possessions, even achievements. You need not think too hard about how you get there. Selfless dreams on the other hand, necessarily involve some sort of individual agency, because ideally you would be the one to make it happen. You don't think to lay out all the steps, but you do need to actually insert yourself into the process. Some kids definitely dream that cancer will be cured by some random scientific team to save their ailing relative or something, but that's out of scope.
 
-Why do I make the distinction? Because I believe that selfless dreams turn into visions, and you need to be armed with visions as an adult. Selfish dreams can spawn visions, but aren't useful on their own. Here, I define vision as sort of your "20 year plan." What is something you want to get done in the next few decades that only you can accomplish,^1 and that the world would be worse off without? 
+Why do I make the distinction? Because I believe that selfless dreams turn into visions, and you need to be armed with visions as an adult. Selfish dreams can spawn visions, but aren't useful on their own. Here, I define vision as sort of your "20 year plan." What is something you want to get done in the next few decades that only you can accomplish<sup>1</sup>, and that the world would be worse off without? 
 
-8 year olds are not really capable of formulating this, but their dreams act as good precursors to visions, especially if they're already selfless. At that age, I was dreaming about having my own self-sufficient flying car with a Star Trek fabricator onboard. I mention this because I always had a lack of long term vision for myself, despite having selfish dreams as most people do. I've never really sat down and pondered what I wanted to get done that only I can do.^1
+8 year olds are not really capable of formulating this, but their dreams act as good precursors to visions, especially if they're already selfless. At that age, I was dreaming about having my own self-sufficient flying car with a Star Trek fabricator onboard. I mention this because I always had a lack of long term vision for myself, despite having selfish dreams as most people do. I've never really sat down and pondered what I wanted to get done that only I can do<sup>1</sup>.
 
-I've changed a lot in the last 6 months. I think it was the culmination of everything I've learnt in the last 3 years. Meeting my 8 year old self, he would probably be surprised at how long it takes to get through the schooling system on an average schedule. I'm not saying I would be prepared for engineering work at age 15, but we need to hire more high school interns across the board.^2 
+I've changed a lot in the last 6 months. I think it was the culmination of everything I've learnt in the last 3 years. Meeting my 8 year old self, he would probably be surprised at how long it takes to get through the schooling system on an average schedule. I'm not saying I would be prepared for engineering work at age 15, but we need to hire more high school interns across the board<sup>2</sup>.
 
 Meeting my 80 year old self, I would have no idea what he would say. Maybe this is unnatural, but I've always had trouble imagining my older selves. Keeping to the rule of thumb though, I would try to maximize how well I treat and love people, and implement my vision as fiercely as I can. 
 
@@ -31,6 +31,6 @@ I'll work on getting it to sound fancier.
 --- 
 
 
-[^1] This is not meant to be taken literally. 
+<sup>1</sup> This is not meant to be taken literally. 
 
-[^2] My main reasoning: 1. makes choosing post-secondary paths easier, 2. makes post-secondary more effective/valuable, 3. so much human talent-hours are wasted in high school. 
+<sup>2</sup> My main reasoning: 1. makes choosing post-secondary paths easier, 2. makes post-secondary more effective/valuable, 3. so much human talent-hours are wasted in high school. 
