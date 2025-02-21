@@ -7,13 +7,14 @@ url: /
 draft: false
 ---
 
-I'm passionate about social computing. I'm working on products that move the needle for a more equitable and productive future.
+I'm passionate about social computing. I'm working on products that move the needle for a more equitable and productive future, and I want to help others do it at scale.
 
 ### Currently
 
-- I'm completing my Bachelor's degree in Computer Science at Western University.
-- I'm working on [FileSeek](/portfolio/fileseek), a local document understanding tool.
-- Director on [Project Regen](/portfolio/regen) and [Western AI](portfolio/wai) Educations. 
+- Completing my Bachelor's degree in Computer Science at Western University.
+- Working on [FileSeek](/portfolio/fileseek), a supercharged Finder. 
+- Building effective incentive structures with social alignment 
+- Mentoring the next generation of engineering leaders as part of [Western AI](/portfolio/wai) and the [Warp](/portfolio/warp) Campus Lead program.
 
 ### Previously
 

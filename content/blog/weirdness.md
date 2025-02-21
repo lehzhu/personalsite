@@ -6,3 +6,4 @@ toc: false
 draft: true
 ---
 
+put on pause because it's kinda neurotic to talk about this, though i probably should hammer it out one day.
