@@ -9,6 +9,8 @@ draft: false
 
 I'm passionate about social computing. I'm working on products that move the needle for a more equitable and productive future, and I want to help others do it at scale.
 
+Seeking full-time or internship roles in engineering & strategy starting Spring/Summer 2025. 
+
 ### Currently
 
 - Completing my Bachelor's degree in Computer Science at Western University.
@@ -23,7 +25,7 @@ I'm passionate about social computing. I'm working on products that move the nee
 
 ### Broadly
 
-I'm interested in aligning humans to do more net good through novel theses in social computing. Curiosity is my strong suit, and I leverage this alongside my ability to see and analyze connections through multiple layers of the world.
+I'm interested in aligning humans to do more net good through better social alignment. Curiosity is my strong suit, and I leverage this alongside my ability to see and analyze connections through multiple layers of the world.
 
 I enjoy writing [essays](/blog), both long-form and short-form. Writing is a process that forces us to defend and challenge our assumptions, knowledge, and beliefs, and I love that process.
 
