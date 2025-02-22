@@ -1,0 +1,20 @@
+{{ define "header" }}{{ end }}
+{{ define "main" }}
+<div style="display: flex; justify-content: center; min-height: 100vh; background: var(--background);">
+    <div class="content" style="padding: 0 2rem; width: 60vw;">
+        <h1 class="mt-4 mb-4">{{ .Title }}</h1>
+        <iframe 
+            src="{{ (resources.Get "resume.pdf").Permalink }}"
+            style="width: 100%; height: calc(100vh - 6rem); border: none;"
+            type="application/pdf">
+        </iframe>
+        <p class="mt-4 text-center">
+            <a href="{{ (resources.Get "resume.pdf").Permalink }}" 
+               download="Leon_Zhu_Resume_Feb2025.pdf" 
+               class="button ~info">
+                Download PDF
+            </a>
+        </p>
+    </div>
+</div>
+{{ end }} 

@@ -35,6 +35,10 @@ Check out my [portfolio](/portfolio) for more about my work.
 
 Feel free to <a href="https://cal.com/leonz" class="button ~info">book a meeting with me here.</a>
 
-You can email me at [lzhu294@uwo.ca](mailto:lzhu294@uwo.ca). I'm also on [GitHub](https://github.com/lehzhu), [LinkedIn](https://www.linkedin.com/in/leon-zhu/), and [Twitter](https://x.com/towheretobegin).
+My resume can be found [here](/resume).
+
+You can email me at [lzhu294@uwo.ca](mailto:lzhu294@uwo.ca). I'm also on [GitHub](https://github.com/lehzhu), [LinkedIn](https://www.linkedin.com/in/leon-zhu/), and [Twitter](https://x.com/towheretobegin). 
+
+
 
 _Thanks for stopping by!_
