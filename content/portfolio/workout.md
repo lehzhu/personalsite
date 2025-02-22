@@ -10,6 +10,9 @@ highlightSubtitle: true
 weight: 2
 ---
 
+AI-powered workout routine dashboard with log-in, routine creation/deletion/completion, and persistent states. 
 
+[Video Demo](https://www.youtube.com/watch?v=Kaa6M42kSP0) 
+[Github Repo](https://github.com/lehzhu/fitnessplan/tree/main)
 
 Typescript + Postgres 
