@@ -7,9 +7,6 @@ url: /
 draft: false
 ---
 
-I'm passionate about social computing. I'm working on products that move the needle for a more equitable and productive future, and I want to help others do it at scale.
-
-Seeking full-time or internship roles in engineering & strategy starting Spring/Summer 2025. 
 
 ### Currently
 
@@ -23,22 +20,22 @@ Seeking full-time or internship roles in engineering & strategy starting Spring/
 - I led a Data & QA Engineering team at [JD Power](/portfolio/jdpower), transforming the largest automotive analytics product in the world.
 - I worked on data science and analytics [projects](/portfolio/pangea) for non-profits throughout North America.
 
+
 ### Broadly
 
-I'm interested in aligning humans to do more net good through better social alignment. Curiosity is my strong suit, and I leverage this alongside my ability to see and analyze connections through multiple layers of the world.
+I'm interested in aligning humans to do more net good through better social alignment. Curiosity is my strong suit, and I leverage this alongside my ability to see and analyze connections through multiple layers of the world. 
 
-I enjoy writing [essays](/blog), both long-form and short-form. Writing is a process that forces us to defend and challenge our assumptions, knowledge, and beliefs, and I love that process.
+I [write](/blog) sometimes.
 
-Check out my [portfolio](/portfolio) for more about my work. 
+[Portfolio](/portfolio) 
 
 ### Contact
 
 Feel free to <a href="https://cal.com/leonz" class="button ~info">book a meeting with me here.</a>
 
-My resume can be found [here](/resume).
 
-You can email me at [lzhu294@uwo.ca](mailto:lzhu294@uwo.ca). I'm also on [GitHub](https://github.com/lehzhu), [LinkedIn](https://www.linkedin.com/in/leon-zhu/), and [Twitter](https://x.com/towheretobegin). 
-
+You can find my [Resume](/resume) here, and email me at [lzhu294@uwo.ca](mailto:lzhu294@uwo.ca). I'm also on [GitHub](https://github.com/lehzhu), [LinkedIn](https://www.linkedin.com/in/leon-zhu/), and [Twitter](https://x.com/towheretobegin). 
 
 
-_Thanks for stopping by!_
+
+_Thanks for stopping by._
