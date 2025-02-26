@@ -12,7 +12,7 @@ draft: false
 
 - Completing my Bachelor's degree in Computer Science at Western University.
 - Working on [FileSeek](/portfolio/fileseek), a supercharged Finder.
-- Building effective incentive structures with social alignment. 
+- Building [Guardo](/portfolio/guardo), protecting Canadians
 - Mentoring the next generation of engineering leaders as part of [Western AI](/portfolio/wai) and the [Warp](/portfolio/warp) Campus Lead program.
 
 ### Previously
