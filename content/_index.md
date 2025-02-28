@@ -10,32 +10,31 @@ draft: false
 
 ### Currently
 
-- Completing my Bachelor's degree in Computer Science at Western University.
-- Working on [FileSeek](/portfolio/fileseek), a supercharged Finder.
-- Building [Guardo](/portfolio/guardo), protecting Canadians
+- Building [Guardo](/portfolio/guardo), protecting Canadians.
+- Letting my passion for hard tech run free with [Electric Cars](/portfolio/regen) and <a href="https://x.com/sincethestudy/status/1889740418784334241" class="button ~info">robotics projects.</a>
 - Mentoring the next generation of engineering leaders as part of [Western AI](/portfolio/wai) and the [Warp](/portfolio/warp) Campus Lead program.
+- Completing my Bachelor's degree in Computer Science at Western University.
 
 ### Previously
 
-- I led a Data & QA Engineering team at [JD Power](/portfolio/jdpower), transforming the largest automotive analytics product in the world.
+- I led a Data Engineering team at [JD Power](/portfolio/jdpower), transforming the largest automotive analytics product in the world.
 - I worked on data science and analytics [projects](/portfolio/pangea) for non-profits throughout North America.
-
 
 ### Broadly
 
-I'm interested in aligning humans to do more net good through better social alignment. Curiosity is my strong suit, and I leverage this alongside my ability to see and analyze connections through multiple layers of the world. 
+I'm interested in aligning humans to do more net good through better social alignment. We live in a world shaped and dominated by context, and I use context as my tool to build better solutions. 
 
 I [write](/blog) sometimes.
 
-[Portfolio](/portfolio) 
+You can find my [Resume here](/resume).
+
 
 ### Contact
 
 Feel free to <a href="https://cal.com/leonz" class="button ~info">book a meeting with me here.</a>
 
-
-You can find my [Resume](/resume) here, and email me at [lzhu294@uwo.ca](mailto:lzhu294@uwo.ca). I'm also on [GitHub](https://github.com/lehzhu), [LinkedIn](https://www.linkedin.com/in/leon-zhu/), and [Twitter](https://x.com/towheretobegin). 
-
+Please email me at [lzhu294@uwo.ca](mailto:lzhu294@uwo.ca). I'm also on [GitHub](https://github.com/lehzhu), [LinkedIn](https://www.linkedin.com/in/leon-zhu/), and [Twitter](https://x.com/towheretobegin). 
 
 
-_Thanks for stopping by._
+
+_Thanks for stopping by!_
