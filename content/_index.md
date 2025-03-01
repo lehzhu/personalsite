@@ -22,7 +22,7 @@ draft: false
 
 ### Broadly
 
-I'm interested in aligning humans to do more net good through better social alignment. We live in a world shaped and dominated by context, and I use context as my tool to build better solutions. 
+I'm interested in empowering humans to do more net good through better social alignment. We live in a world shaped and dominated by context, and I specifically focus on leading indicators of user needs. 
 
 I [write](/blog) sometimes.
 
