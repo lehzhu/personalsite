@@ -10,7 +10,7 @@ draft: false
 
 ### Currently
 
-- Building <a href="https://guardo.ca" class="button ~info">Guardo</a>, protecting Canadians.
+- Building <a href="https://parallai.ca" class="button ~info">Parallai</a>, the meta-manager for agents.
 - Letting my passion for hard tech run free with [Electric Cars](/portfolio/regen) and <a href="https://x.com/sincethestudy/status/1889740418784334241" class="button ~info">robotics projects.</a>
 - Mentoring the next generation of engineering leaders as part of [Western AI](/portfolio/wai) and the [Warp](/portfolio/warp) Campus Lead program.
 - Completing my Bachelor's degree in Computer Science at Western University.
