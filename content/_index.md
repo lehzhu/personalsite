@@ -10,15 +10,16 @@ draft: false
 
 ### Currently
 
-- Building <a href="https://parallai.com" class="button ~info">Parallai</a>, the meta-manager for agents.
-- Letting my passion for hard tech run free with [Electric Cars](/portfolio/regen) and <a href="https://x.com/sincethestudy/status/1889740418784334241" class="button ~info">robotics projects.</a>
-- Mentoring the next generation of engineering leaders as part of [Western AI](/portfolio/wai) and the [Warp](/portfolio/warp) Campus Lead program.
+- Building a satellite imagery platform 
+- Looking for fulltime roles in engineering and product
 - Completing my Bachelor's degree in Computer Science at Western University.
 
 ### Previously
 
 - I led a Data Engineering team at [JD Power](/portfolio/jdpower), transforming the largest automotive analytics product in the world.
-- I worked on data science and analytics [projects](/portfolio/pangea) for non-profits throughout North America.
+- Prototyped an [electric car](/portfolio/regen) and <a href="https://x.com/sincethestudy/status/1889740418784334241" class="button ~info">robotics projects.</a>
+- Led AI education initiatives at [Western AI](/portfolio/wai) and the [Warp](/portfolio/warp) Campus Lead program
+- Data science and analytics [projects](/portfolio/pangea) for non-profits throughout North America.
 
 ### Broadly
 
