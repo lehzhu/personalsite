@@ -20,7 +20,7 @@ draft: false
 - Prototyped an [electric car](/portfolio/regen) and <a href="https://x.com/sincethestudy/status/1889740418784334241" class="button ~info">robotics projects.</a>
 - Led AI education initiatives at [Western AI](/portfolio/wai) and the [Warp](/portfolio/warp) Campus Lead program
 - Data science and analytics [projects](/portfolio/pangea) for non-profits throughout North America.
-- Built an agent management platform, <a href="https://parallai.com" class="button ~info"> Parallai.</a>
+- Built an agent management platform, <a href="https://parallai.com" class="button ~info">Parallai.</a>
 
 ### Broadly
 
