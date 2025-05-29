@@ -18,7 +18,7 @@ draft: false
 
 ### Previously
 
-- I led a Data Engineering team at [JD Power](/portfolio/jdpower), transforming the largest automotive analytics product in the world.
+- Led a Data Engineering team at [JD Power](/portfolio/jdpower), transforming the largest automotive analytics product in the world.
 - Prototyped an [electric car](/portfolio/regen) and a <a href="https://x.com/sincethestudy/status/1889740418784334241" class="button ~info">bracketbot.</a>
 - Led AI education initiatives at [Western AI](/portfolio/wai) and the [Warp](/portfolio/warp) Campus Lead program
 - Built an agent management platform, <a href="https://parallai.com" class="button ~info">Parallai.</a>
