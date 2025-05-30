@@ -10,20 +10,20 @@ draft: false
 
 ### Currently
 
-- Building OSINT tooling in Palantir AIP (currently focused on the Korean presidential election).
-- Looking for full-time roles in product engineering!
-- Voice Quality Controller at Elevenlabs.
-- Prototyping data triage with "Noravue."
+- Building OSINT tooling in Palantir AIP (currently focused on the Korean presidential election)
+- Looking for full-time roles in product engineering
+- Voice Quality Controller at Elevenlabs
+- Prototyping data triage with Noravue
 
 
 ### Previously
 
-- Led a Data Engineering team at [JD Power](/portfolio/jdpower), transforming the largest automotive analytics product in the world.
-- Prototyped an [electric car](/portfolio/regen) and a <a href="https://x.com/sincethestudy/status/1889740418784334241" class="button ~info">bracketbot.</a>
+- Led a Data Engineering team at [JD Power](/portfolio/jdpower), transforming the largest automotive analytics product in the world
+- Prototyped an [electric car](/portfolio/regen) and a <a href="https://x.com/sincethestudy/status/1889740418784334241" class="button ~info">bracketbot</a>
 - Led AI education initiatives at [Western AI](/portfolio/wai) and the [Warp](/portfolio/warp) Campus Lead program
-- Built an agent management platform, <a href="https://parallai.com" class="button ~info">Parallai.</a>
-- Explored satellite imagery market infrastructure.
-- Graduated from Western University with BSc Computer Science.
+- Built an agent management platform, <a href="https://parallai.com" class="button ~info">Parallai</a>
+- Explored satellite imagery market infrastructure 
+- BSc Computer Science, Western University
 
 ### Broadly
 
