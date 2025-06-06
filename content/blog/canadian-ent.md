@@ -12,7 +12,7 @@ Entrepreneurship is fundamentally about taking risks. You’re literally rewarde
 
 The first mistake we make with many young Canadians is that we don’t sufficiently drill this into their heads. Typically, the overwhelming exercise is for them to think about a problem they personally experience and try to solve it. Problem-solving is beneficial, and becoming skilled at identifying problems is undoubtedly useful. However, there’s a profound lack of explicit bet-making.
 
-Startups are bets on the future—an outsized wager on a particular outcome. While mathematically similar to gambling, the key difference is that the Expected Value is always supposed to be positive. Paul Graham’s recent criticism of a popular HackerNews post has reintroduced this concept to my perspective.
+Startups are bets on the future—an outsized wager on a particular outcome. While mathematically similar to gambling, the key difference is that the Expected Value is always supposed to be positive. Paul Graham’s [recent criticism](https://x.com/paulg/status/1885003032460476671) of a popular HackerNews post has reintroduced this concept to my perspective.
 
 There are many reasons startups don’t thrive in Canada compared to the United States. The most obvious reason is simply that Canada isn’t the United States, and the second most obvious reason is that Canadians generally don’t take enough risks. I find these answers accurate enough and won’t try to propose a third. “Tall poppy syndrome” is also a relevant factor worth noting.
 
