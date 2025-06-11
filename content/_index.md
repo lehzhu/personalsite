@@ -10,11 +10,9 @@ draft: false
 
 ### Currently
 
-- Building OSINT tooling in Palantir AIP (currently focused on the Korean presidential election)
-- Looking for full-time roles in product engineering
-- Voice Quality Controller at Elevenlabs
-- Prototyping data triage with Noravue
-
+- Researching human-data interactions including human-AI interactions
+- Building OSINT tooling in Palantir AIP 
+- Looking for full-time roles in data engineering
 
 ### Previously
 
