@@ -1,6 +1,6 @@
 ---
 title: "JD Power"
-subtitle: "QA Engineer"
+subtitle: "Data Engineer"
 category: Work
 tags: ["data", "engineering", "corporate"]
 dateOverride: "2023-2024"
