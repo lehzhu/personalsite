@@ -1,7 +1,7 @@
 {{ define "header" }}{{ end }}
 {{ define "main" }}
 <div style="display: flex; justify-content: center; min-height: 100vh; background: var(--background);">
-    <div class="content" style="padding: 0 2rem; width: 60vw;">
+    <div class="content" style="padding: 0 2rem; width: 90vw;">
         <h1 class="mt-4 mb-4">{{ .Title }}</h1>
         <iframe 
             src="{{ (resources.Get "resume.pdf").Permalink }}"
