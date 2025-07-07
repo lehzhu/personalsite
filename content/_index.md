@@ -10,7 +10,7 @@ draft: false
 
 ### Currently
 
-- Researching human-data interactions including human-AI interactions
+- Tinkering with Nora, your AI mentor
 - Building OSINT tooling in Palantir AIP 
 - Looking for full-time roles in data engineering
 
