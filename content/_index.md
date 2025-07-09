@@ -23,6 +23,13 @@ draft: false
 - Explored satellite imagery market infrastructure 
 - BSc Computer Science, Western University
 
+### Project Demos
+
+- [No dots in Gmail!](https://nodots-jrnweiqqw-lezhus-projects.vercel.app/) 
+- [Nora](https://youtu.be/aDgMP7i83SU)
+- [What to wear?](https://youtu.be/6KU-DWkOH7k)
+- [Shop Wrapped](https://x.com/towheretobegin/status/1939523616489828652/video/1) 
+
 ### Broadly
 
 I'm interested in empowering humans to do more net good through better social alignment. 
