@@ -10,16 +10,16 @@ draft: false
 
 ### Currently
 
-- Tinkering with Nora, your AI mentor
-- Building OSINT tooling in Palantir AIP 
-- Looking for full-time roles in data engineering
+- Launching Nora, your AI mentor
+- Filming mini-documentaries about consistency 
+- Researching human-data interactions
 
 ### Previously
 
 - Led a Data Engineering team at [JD Power](/portfolio/jdpower), transforming the largest automotive analytics product in the world
-- Prototyped an [electric car](/portfolio/regen) and a <a href="https://x.com/sincethestudy/status/1889740418784334241" class="button ~info">bracketbot</a>
+- Prototyped in robotics and vision data <a href="https://x.com/sincethestudy/status/1889740418784334241" class="button ~info">(bracketbot hackathon)</a>
 - Led AI education initiatives at [Western AI](/portfolio/wai) and the [Warp](/portfolio/warp) Campus Lead program
-- Built an agent management platform, <a href="https://parallai.com" class="button ~info">Parallai</a>
+- Experimented with agent management,, <a href="https://parallai.com" class="button ~info">Parallai</a>
 - Explored satellite imagery market infrastructure 
 - BSc Computer Science, Western University
 
@@ -34,9 +34,7 @@ You can find my [Resume here](/resume).
 
 ### Contact
 
-Feel free to <a href="https://cal.com/leonz" class="button ~info">book a meeting with me here.</a>
-
-Please email me at [lzhu294@uwo.ca](mailto:bnleonz@gmail.com). I'm also on [GitHub](https://github.com/lehzhu), [LinkedIn](https://www.linkedin.com/in/leon-zhu/), and [Twitter](https://x.com/towheretobegin). 
+Please email me at [bnleonz@gmail.com](mailto:bnleonz@gmail.com). I'm also on [GitHub](https://github.com/lehzhu), [LinkedIn](https://www.linkedin.com/in/leon-zhu/), and [Twitter](https://x.com/towheretobegin). 
 
 
 
