@@ -10,7 +10,7 @@ draft: false
 
 ### Currently
 
-- Launching Nora, your AI mentor
+- Launching [Noravue](https://noravue.com)
 - Filming mini-documentaries about consistency 
 - Researching human-data interactions
 
