@@ -2,7 +2,7 @@
 supertitle: Leon Zhu | About, contact, and portfolio
 title: Leon Zhu
 subtitle: Toronto
-description: I'm a data engineer turned product-centric generalist focused on social engineering.
+description: I'm focused on a social computing approach to application-layer AI. 
 url: /
 draft: false
 ---
@@ -10,6 +10,7 @@ draft: false
 
 ### Currently
 
+- Incoming Member of Technical staff at [Veris](https://veris.ai)
 - Launching [Noravue](https://noravue.com)
 - Filming mini-documentaries about consistency 
 - Researching human-data interactions
