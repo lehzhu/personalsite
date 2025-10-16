@@ -1,7 +1,7 @@
 ---
 supertitle: Leon Zhu | About, contact, and portfolio
 title: Leon Zhu
-subtitle: Toronto
+subtitle: New York
 description: I'm focused on a social computing approach to application-layer AI. 
 url: /
 draft: false
