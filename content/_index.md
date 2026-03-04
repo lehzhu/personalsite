@@ -1,5 +1,5 @@
 ---
-supertitle: Leon Zhu | About, contact, and portfolio
+supertitle: Leon Zhu | About and contact
 title: Leon Zhu
 subtitle: New York
 description: I'm focused on a social computing approach to application-layer AI. 
@@ -16,9 +16,9 @@ draft: false
 
 ### Previously
 
-- Led a Data Engineering team at [JD Power](/portfolio/jdpower), transforming the largest automotive analytics product in the world
+- Led a Data Engineering team at JD Power, transforming the largest automotive analytics product in the world
 - Prototyped in robotics and vision data <a href="https://x.com/sincethestudy/status/1889740418784334241" class="button ~info">(bracketbot hackathon)</a>
-- Led AI education initiatives at [Western AI](/portfolio/wai) and the [Warp](/portfolio/warp) Campus Lead program
+- Led AI education initiatives at Western AI and the Warp Campus Lead program
 - Experimented with agent management, <a href="https://parallai.com" class="button ~info">Parallai</a> and social computing based outreach ([Noravue](Noravue.com))
 - BSc Computer Science, Western University
 
