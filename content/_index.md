@@ -11,8 +11,8 @@ draft: false
 ### Currently
 
 - Member of Technical staff at [Veris](https://veris.ai)
+- Building [Ranger](https://ranger.parallai.com)
 - Filming mini-documentaries in NYC
-- Researching human-data interactions
 
 ### Previously
 
