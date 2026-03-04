@@ -19,7 +19,6 @@ draft: false
 - Led a Data Engineering team at JD Power, transforming the largest automotive analytics product in the world
 - Prototyped in robotics and vision data <a href="https://x.com/sincethestudy/status/1889740418784334241" class="button ~info">(bracketbot hackathon)</a>
 - Led AI education initiatives at Western AI and the Warp Campus Lead program
-- Experimented with agent management, <a href="https://parallai.com" class="button ~info">Parallai</a> and social computing based outreach ([Noravue](Noravue.com))
 - BSc Computer Science, Western University
 
 
