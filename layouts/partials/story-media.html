@@ -1,0 +1,109 @@
+{{ $page := .page }}
+{{ $preview := .preview | default false }}
+{{ $class := .class | default "" }}
+{{ $mediaType := lower ($page.Param "mediaType") }}
+{{ $mediaPath := $page.Param "media" }}
+{{ $mediaURL := $page.Param "mediaUrl" }}
+{{ $thumbnailPath := $page.Param "thumbnail" }}
+{{ $thumbnailURL := $page.Param "thumbnailUrl" }}
+{{ $posterPath := $page.Param "poster" }}
+{{ $posterURL := $page.Param "posterUrl" }}
+{{ $alt := $page.Param "mediaAlt" | default (printf "Media for %s" $page.Title) }}
+
+{{ $mediaResource := "" }}
+{{ if $mediaPath }}
+  {{ $mediaResource = $page.Resources.GetMatch $mediaPath }}
+{{ end }}
+{{ $thumbnailResource := "" }}
+{{ if $thumbnailPath }}
+  {{ $thumbnailResource = $page.Resources.GetMatch $thumbnailPath }}
+{{ end }}
+{{ if not $thumbnailResource }}
+  {{ $thumbnailResource = or ($page.Resources.GetMatch "thumbnail*") ($page.Resources.GetMatch "thumb*") ($page.Resources.GetMatch "cover*") }}
+{{ end }}
+{{ $posterResource := "" }}
+{{ if $posterPath }}
+  {{ $posterResource = $page.Resources.GetMatch $posterPath }}
+{{ end }}
+
+{{ $displayImage := or $thumbnailResource $thumbnailURL }}
+{{ if and (not $displayImage) (or (eq $mediaType "image") (eq $mediaType "gif")) }}
+  {{ $displayImage = or $mediaResource $mediaURL }}
+{{ end }}
+
+{{ if $preview }}
+  {{ if $displayImage }}
+    {{ $src := "" }}
+    {{ if reflect.IsMap $displayImage }}
+      {{ $src = $displayImage.RelPermalink }}
+    {{ else }}
+      {{ $src = $displayImage }}
+    {{ end }}
+    <img class="{{ $class }}" src="{{ $src }}" alt="{{ $alt }}" loading="lazy" />
+  {{ else if eq $mediaType "audio" }}
+    {{ with resources.Get "images/audio.svg" }}
+      <img class="{{ $class }}" src="{{ .RelPermalink }}" alt="{{ $alt }}" loading="lazy" />
+    {{ end }}
+  {{ else }}
+    <div class="{{ $class }} flex items-center justify-center bg-neutral-200 text-xs uppercase tracking-[0.25em] text-neutral-500 dark:bg-neutral-800 dark:text-neutral-400">
+      Story
+    </div>
+  {{ end }}
+{{ else }}
+  {{ if or (eq $mediaType "image") (eq $mediaType "gif") }}
+    {{ $src := "" }}
+    {{ if $mediaResource }}
+      {{ $src = $mediaResource.RelPermalink }}
+    {{ else }}
+      {{ $src = $mediaURL }}
+    {{ end }}
+    {{ if $src }}
+      <img class="{{ $class }}" src="{{ $src }}" alt="{{ $alt }}" loading="eager" />
+    {{ end }}
+  {{ else if eq $mediaType "video" }}
+    {{ $src := "" }}
+    {{ if $mediaResource }}
+      {{ $src = $mediaResource.RelPermalink }}
+    {{ else }}
+      {{ $src = $mediaURL }}
+    {{ end }}
+    {{ $poster := "" }}
+    {{ if $posterResource }}
+      {{ $poster = $posterResource.RelPermalink }}
+    {{ else if $thumbnailResource }}
+      {{ $poster = $thumbnailResource.RelPermalink }}
+    {{ else if $posterURL }}
+      {{ $poster = $posterURL }}
+    {{ else if $thumbnailURL }}
+      {{ $poster = $thumbnailURL }}
+    {{ end }}
+    {{ if $src }}
+      <video class="{{ $class }}" controls muted playsinline loop preload="metadata" {{ with $poster }}poster="{{ . }}"{{ end }}>
+        <source src="{{ $src }}" />
+        Your browser does not support the video tag.
+      </video>
+    {{ end }}
+  {{ else if eq $mediaType "audio" }}
+    {{ if $displayImage }}
+      {{ $src := "" }}
+      {{ if reflect.IsMap $displayImage }}
+        {{ $src = $displayImage.RelPermalink }}
+      {{ else }}
+        {{ $src = $displayImage }}
+      {{ end }}
+      <img class="{{ $class }} mb-4" src="{{ $src }}" alt="{{ $alt }}" loading="eager" />
+    {{ end }}
+    {{ $src := "" }}
+    {{ if $mediaResource }}
+      {{ $src = $mediaResource.RelPermalink }}
+    {{ else }}
+      {{ $src = $mediaURL }}
+    {{ end }}
+    {{ if $src }}
+      <audio class="w-full" controls preload="metadata">
+        <source src="{{ $src }}" />
+        Your browser does not support the audio element.
+      </audio>
+    {{ end }}
+  {{ end }}
+{{ end }}

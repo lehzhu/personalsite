@@ -10,7 +10,8 @@
     <div class="md:text-right">
       <ul class="-ml-2 md:ml-0 flex md:flex-col gap-4 md:gap-1">
         {{ range .Site.Menus.main }}
-        <li class="self-end font-medium text-neutral-400 dark:text-neutral-400 hover:!text-neutral-800 hover:dark:!text-neutral-100 transition-all {{ if eq $currentPage.RelPermalink .URL }} !text-neutral-800 dark:!text-neutral-100 {{ end }}">
+        {{ $isActive := or (eq $currentPage.RelPermalink .URL) (and (ne .URL "/") (hasPrefix $currentPage.RelPermalink .URL)) }}
+        <li class="self-end font-medium text-neutral-400 dark:text-neutral-400 hover:!text-neutral-800 hover:dark:!text-neutral-100 transition-all {{ if $isActive }} !text-neutral-800 dark:!text-neutral-100 {{ end }}">
           <a href="{{ .URL }}">
             {{ .Pre }}
             <span>{{ .Name }}</span>

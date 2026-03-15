@@ -1,0 +1,44 @@
+{{ define "header" }}
+{{ partial "heading.html" . }}
+{{ end }}
+
+{{ define "main" }}
+<main class="-mt-[3px]">
+  {{ if gt (len .Content) 0 }}
+  <section class="content mb-10">
+    {{ .Content }}
+  </section>
+  {{ end }}
+
+  {{ $stories := .RegularPages.ByDate.Reverse }}
+  {{ if gt (len $stories) 0 }}
+  <section class="grid gap-6 md:grid-cols-2">
+    {{ range $stories }}
+    <article class="group overflow-hidden rounded-[28px] border border-neutral-200 bg-white/70 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg dark:border-neutral-800 dark:bg-neutral-900/60">
+      <a class="block" href="{{ .RelPermalink }}">
+        {{ partial "story-media.html" (dict "page" . "preview" true "class" "h-56 w-full object-cover transition-transform duration-500 group-hover:scale-[1.02]") }}
+        <div class="p-5">
+          <div class="mb-2 text-xs font-medium uppercase tracking-[0.25em] text-neutral-400">
+            {{ .Date.Format "Jan 2, 2006" }}
+          </div>
+          <h3 class="mb-2 text-lg font-medium leading-snug text-neutral-900 dark:text-neutral-100">
+            {{ .Title }}
+          </h3>
+          {{ with .Params.subtitle }}
+          <p class="mb-2 text-sm text-neutral-500 dark:text-neutral-400">{{ . }}</p>
+          {{ end }}
+          <div class="content my-0 text-[16px]">
+            {{ .Summary }}
+          </div>
+        </div>
+      </a>
+    </article>
+    {{ end }}
+  </section>
+  {{ else }}
+  <section class="rounded-[28px] border border-dashed border-neutral-300 px-6 py-10 text-sm text-neutral-500 dark:border-neutral-700 dark:text-neutral-400">
+    Stories will show up here as thumbnail cards with a written backstory behind each one.
+  </section>
+  {{ end }}
+</main>
+{{ end }}
