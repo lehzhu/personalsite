@@ -10,12 +10,13 @@ draft: false
 
 ### Currently
 
-- Member of Technical staff at [Veris](https://veris.ai)
+- Seeking Product & FDE positions in NYC
 - Building [Ranger](https://ranger.parallai.com)
 - Filming mini-documentaries in NYC
 
 ### Previously
 
+- Member of Technical staff at [Veris](https://veris.ai)
 - Led a Data Engineering team at JD Power, transforming the largest automotive analytics product in the world
 - Prototyped in robotics and vision data <a href="https://x.com/sincethestudy/status/1889740418784334241" class="button ~info">(bracketbot hackathon)</a>
 - Led AI education initiatives at Western AI and the Warp Campus Lead program
