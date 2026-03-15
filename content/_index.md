@@ -12,7 +12,6 @@ draft: false
 
 - Seeking Product & FDE positions in NYC
 - Building [Ranger](https://ranger.parallai.com)
-- Filming mini-documentaries in NYC
 
 ### Previously
 
