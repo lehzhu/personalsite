@@ -7,5 +7,3 @@ draft: false
 ---
 
 Each story starts with a single artifact: a photo, a GIF, a silent clip, or an audio note.
-
-Click into any card for the full background behind it.
