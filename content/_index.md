@@ -16,7 +16,7 @@ draft: false
 ### Previously
 
 - Software Engineer at [Veris AI](https://veris.ai), working on product, marketing, AI agent infra
-- Led a Data Engineering team at [JD Power](https://www.jdpower.com/), transforming the largest automotive analytics product in the world
+- Data Engineer at [JD Power](https://www.jdpower.com/), transforming the largest automotive analytics product in the world
 - Prototyped in robotics and vision data <a href="https://x.com/sincethestudy/status/1889740418784334241" class="button ~info">(bracketbot hackathon)</a>
 - Led AI education initiatives at Western AI and the Warp Campus Lead program
 - BSc Computer Science, Western University
