@@ -100,10 +100,16 @@
       {{ $src = $mediaURL }}
     {{ end }}
     {{ if $src }}
-      <audio class="w-full" controls preload="metadata">
-        <source src="{{ $src }}" />
-        Your browser does not support the audio element.
-      </audio>
+      <div class="story-audio-player">
+        <div class="story-audio-player__meta">
+          <span class="story-audio-player__label">Field Recording</span>
+          <span class="story-audio-player__title">{{ $page.Title }}</span>
+        </div>
+        <audio class="story-audio-player__control" controls preload="metadata">
+          <source src="{{ $src }}" />
+          Your browser does not support the audio element.
+        </audio>
+      </div>
     {{ end }}
   {{ end }}
 {{ end }}
