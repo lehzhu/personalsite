@@ -106,7 +106,6 @@
 .story-audio-player__meta {
   display: flex;
   align-items: baseline;
-  justify-content: space-between;
   gap: 1rem;
   margin-bottom: 0.75rem;
   font-family: Inter, sans-serif;
@@ -117,13 +116,6 @@
   letter-spacing: 0.22em;
   text-transform: uppercase;
   color: #6d6553;
-}
-
-.story-audio-player__title {
-  font-size: 0.78rem;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-  color: #403a2f;
 }
 
 .story-audio-player__control {
