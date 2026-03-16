@@ -5,6 +5,7 @@ date: 2025-05-09
 draft: false
 mediaType: "audio"
 media: "sounds-of-hk.m4a"
+thumbnail: "chungking.jpeg"
 mediaAlt: "Field recording of Hong Kong street sounds"
 description: Street sounds from Hong Kong, with a short reflection on the city's presence and landscape.
 ---

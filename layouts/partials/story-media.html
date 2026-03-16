@@ -34,10 +34,14 @@
 {{ if $preview }}
   {{ if $displayImage }}
     {{ $src := "" }}
-    {{ if reflect.IsMap $displayImage }}
-      {{ $src = $displayImage.RelPermalink }}
+    {{ if $thumbnailResource }}
+      {{ $src = $thumbnailResource.RelPermalink }}
+    {{ else if $thumbnailURL }}
+      {{ $src = $thumbnailURL }}
+    {{ else if $mediaResource }}
+      {{ $src = $mediaResource.RelPermalink }}
     {{ else }}
-      {{ $src = $displayImage }}
+      {{ $src = $mediaURL }}
     {{ end }}
     <img class="{{ $class }}" src="{{ $src }}" alt="{{ $alt }}" loading="lazy" />
   {{ else if eq $mediaType "audio" }}
@@ -86,10 +90,10 @@
   {{ else if eq $mediaType "audio" }}
     {{ if $displayImage }}
       {{ $src := "" }}
-      {{ if reflect.IsMap $displayImage }}
-        {{ $src = $displayImage.RelPermalink }}
-      {{ else }}
-        {{ $src = $displayImage }}
+      {{ if $thumbnailResource }}
+        {{ $src = $thumbnailResource.RelPermalink }}
+      {{ else if $thumbnailURL }}
+        {{ $src = $thumbnailURL }}
       {{ end }}
       <img class="{{ $class }} mb-4" src="{{ $src }}" alt="{{ $alt }}" loading="eager" />
     {{ end }}
