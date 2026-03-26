@@ -7,11 +7,12 @@ url: /
 draft: false
 ---
 
+Hi, I'm Leon! I enjoy researching consumer psychology and building agent-based systems.
 
 ### Currently
 
 - Seeking Product & FDE positions in NYC
-- Building [Ranger](https://ranger.parallai.com)
+- Building [Ranger](https://ranger.parallai.com) (50k visitors)
 
 ### Previously
 
