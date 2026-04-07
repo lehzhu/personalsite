@@ -11,6 +11,7 @@ Hi, I'm Leon! I enjoy researching consumer psychology and building agent-based s
 
 ### Currently
 
+- Explorer @ [North York Studio](https://northyorkstudio.com)
 - Side questing in New York with [Ranger](https://ranger.parallai.com) (50k visitors)
 
 ### Previously
