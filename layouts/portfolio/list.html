@@ -1,0 +1,146 @@
+{{ define "header" }}
+<section class="-mt-1">
+  <div>
+    <h3 class="inline font-medium !leading-snug dark:text-white text-xl">Portfolio</h3>
+    <h3 class="inline font-medium !leading-snug dark:text-neutral-400 text-neutral-400 text-xl">
+      <br>Selected projects
+    </h3>
+  </div>
+</section>
+{{ end }}
+
+{{ define "main" }}
+<main class="-mt-7">
+
+  <!-- Project selector tabs -->
+  <nav class="flex flex-wrap gap-2 mb-5" aria-label="Projects">
+    <button class="portfolio-tab active" onclick="selectProject(0)">Ranger</button>
+    <button class="portfolio-tab" onclick="selectProject(1)">Orion</button>
+    <button class="portfolio-tab" onclick="selectProject(2)">Claude Code Ping</button>
+    <button class="portfolio-tab" onclick="selectProject(3)">ValCalc</button>
+    <button class="portfolio-tab" onclick="selectProject(4)">North York Studio</button>
+  </nav>
+
+  <!-- Media stage -->
+  <div class="portfolio-video-stage mb-5" id="video-stage">
+    <video id="portfolio-video"
+      class="w-full h-full object-contain"
+      muted loop playsinline autoplay>
+      <source src="/videos/ranger.mp4" type="video/mp4" />
+    </video>
+    <img id="portfolio-image" class="w-full h-full object-contain hidden" alt="" />
+    <div id="video-placeholder" class="portfolio-placeholder hidden">
+      <span class="text-neutral-500 dark:text-neutral-400 font-sans text-sm">Coming soon</span>
+    </div>
+  </div>
+
+  <!-- Project info -->
+  <div class="mb-2 flex items-start justify-between gap-4">
+    <h3 id="project-title" class="font-sans font-medium text-base dark:text-white text-neutral-900 !m-0">Ranger</h3>
+    <div class="flex gap-4 flex-shrink-0 pt-0.5" id="project-links">
+      <a href="https://x.com/towheretobegin/status/2033210425509023918?s=20"
+        class="text-sm font-sans text-neutral-400 dark:text-neutral-500 hover:text-neutral-700 dark:hover:text-neutral-200 transition-all no-underline">
+        View on X &nearr;
+      </a>
+    </div>
+  </div>
+  <p id="project-desc" class="font-serif text-[17px] leading-relaxed text-neutral-700 dark:text-neutral-300 opacity-90 !m-0">
+    City transit reachability &amp; routing platform. Schedule-based isochrone maps showing how far riders can travel from any origin across Toronto, NYC, and SF &mdash; Rust GTFS engine, React/Mapbox GL, A* bike routing, 30% latency improvement via R-tree indexing.
+  </p>
+
+</main>
+
+<script>
+  const projects = [
+    {
+      name: "Ranger",
+      video: "/videos/ranger.mp4",
+      desc: "City transit reachability & routing platform. Schedule-based isochrone maps showing how far riders can travel from any origin across Toronto, NYC, and SF \u2014 Rust GTFS engine, React/Mapbox GL, A* bike routing, 30% latency improvement via R-tree indexing.",
+      links: [
+        { label: "View on X \u2197", href: "https://x.com/towheretobegin/status/2033210425509023918?s=20" },
+      ],
+    },
+    {
+      name: "Orion",
+      video: "/videos/orion.mp4",
+      desc: "Artemis II / Orion mission orbit animation. Static 3D visualization of the lunar flyby trajectory.",
+      links: [
+        { label: "Visit \u2197", href: "https://orion.northyorkstudio.com" },
+        { label: "GitHub \u2197", href: "https://github.com/lehzhu/orion" },
+      ],
+    },
+    {
+      name: "Claude Code Ping",
+      video: null,
+      desc: "Teams-style completion notifications for Claude Code on macOS \u2014 plays a Microsoft Teams sound and shows a custom popup when your agent finishes.",
+      links: [
+        { label: "GitHub \u2197", href: "https://github.com/lehzhu/pingme" },
+      ],
+    },
+    {
+      name: "ValCalc",
+      video: null,
+      image: "/images/valcalc.jpg",
+      desc: "Startup fair-value estimator. Calibration waterfall across anchor, financial performance, market/sector, and qualitative adjustments \u2014 outputs a range with Excel and JSON export.",
+      links: [
+        { label: "GitHub \u2197", href: "https://github.com/lehzhu/valcalc" },
+      ],
+    },
+    {
+      name: "North York Studio",
+      video: "/videos/north-york-studio.mp4",
+      desc: "Fullscreen 3D parallax video homepage \u2014 looping video scaled to 130% of the viewport, cursor movement shifts the frame in the opposite direction to create a subtle parallax effect. Deployed to Cloudflare Workers with video on R2.",
+      links: [
+        { label: "GitHub \u2197", href: "https://github.com/lehzhu/north-york-studio" },
+      ],
+    },
+  ];
+
+  function selectProject(index) {
+    const p = projects[index];
+    const tabs = document.querySelectorAll('.portfolio-tab');
+    const video = document.getElementById('portfolio-video');
+    const img = document.getElementById('portfolio-image');
+    const placeholder = document.getElementById('video-placeholder');
+
+    // Update tabs
+    tabs.forEach((tab, i) => {
+      tab.classList.toggle('active', i === index);
+    });
+
+    // Update media
+    if (p.video) {
+      video.classList.remove('hidden');
+      img.classList.add('hidden');
+      placeholder.classList.add('hidden');
+      video.src = p.video;
+      video.load();
+      video.play().catch(() => {});
+    } else if (p.image) {
+      video.classList.add('hidden');
+      img.classList.remove('hidden');
+      placeholder.classList.add('hidden');
+      img.src = p.image;
+      img.alt = p.name;
+    } else {
+      video.classList.add('hidden');
+      img.classList.add('hidden');
+      placeholder.classList.remove('hidden');
+    }
+
+    // Update info
+    document.getElementById('project-title').textContent = p.name;
+    document.getElementById('project-desc').textContent = p.desc;
+
+    const linksEl = document.getElementById('project-links');
+    linksEl.innerHTML = '';
+    p.links.forEach(link => {
+      const a = document.createElement('a');
+      a.href = link.href;
+      a.textContent = link.label;
+      a.className = 'text-sm font-sans text-neutral-400 dark:text-neutral-500 hover:text-neutral-700 dark:hover:text-neutral-200 transition-all no-underline';
+      linksEl.appendChild(a);
+    });
+  }
+</script>
+{{ end }}

@@ -36,9 +36,17 @@ weight = 2
     style_active = "bg-info-100 dark:bg-info-800 dark:bg-opacity-[30%]"
 
 [[menu.main]]
+name = "Portfolio"
+url = "/portfolio/"
+weight = 3
+[menu.main.params]
+    style = "text-info-600"
+    style_active = "bg-info-100 dark:bg-info-800 dark:bg-opacity-[30%]"
+
+[[menu.main]]
 name = "Stories"
 url = "/stories/"
-weight = 3
+weight = 4
 [menu.main.params]
     style = "text-info-600"
     style_active = "bg-info-100 dark:bg-info-800 dark:bg-opacity-[30%]"
